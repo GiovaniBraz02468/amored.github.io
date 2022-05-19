@@ -55,7 +55,3 @@ section div.foto img{
     
 }
 
-section div.foto img:hover{
-    width: 150%;
-    background : url(imgs/bg/04.2.jpg); 
-}
